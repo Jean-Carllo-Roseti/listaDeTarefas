@@ -1,0 +1,52 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.unica {
+    padding: 200px;
+    max-width: 960px;
+    width: 100%;
+    margin: auto;
+}
+
+h1 {
+    font-size:28px;
+    text-align: center;
+}
+
+form {
+    margin: 16px 0px;
+    display: flex;
+    justify-content: center;
+}
+
+form input {
+    padding-left: 8px;
+    font-size: 22px;
+}
+
+button {
+    font-size: 22px;
+    margin-left: 6px;
+    padding: 4px;
+}
+
+li {
+    cursor: pointer;
+}
+
+.riscado {
+    text-decoration: line-through;
+
+}
+
+
+
